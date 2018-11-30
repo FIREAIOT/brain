@@ -1,0 +1,26 @@
+<annotation>
+	<folder>input</folder>
+	<filename>merlin_131940623_27f74c34-74e0-4486-8ef5-4fa4012cbec2-articleLarge.jpg</filename>
+	<path>/Users/saleem/code/fireaiot/brain/input/merlin_131940623_27f74c34-74e0-4486-8ef5-4fa4012cbec2-articleLarge.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>187</ymin>
+			<xmax>387</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

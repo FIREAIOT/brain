@@ -1,0 +1,26 @@
+<annotation>
+	<folder>input</folder>
+	<filename>new-136.jpg</filename>
+	<path>/Users/saleem/code/fireaiot/brain/input/new-136.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>313</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>92</ymin>
+			<xmax>131</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

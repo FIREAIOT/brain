@@ -1,0 +1,26 @@
+<annotation>
+	<folder>input</folder>
+	<filename>pg-4-gaza-1-epa.jpg</filename>
+	<path>/Users/saleem/code/fireaiot/brain/input/pg-4-gaza-1-epa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>968</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>137</ymin>
+			<xmax>809</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>
