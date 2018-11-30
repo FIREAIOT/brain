@@ -1,0 +1,26 @@
+<annotation>
+	<folder>input</folder>
+	<filename>slp2012071711.jpg</filename>
+	<path>/Users/saleem/code/fireaiot/brain/input/slp2012071711.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2037</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>153</ymin>
+			<xmax>2389</xmax>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+</annotation>

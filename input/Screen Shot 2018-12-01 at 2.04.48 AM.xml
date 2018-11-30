@@ -1,0 +1,26 @@
+<annotation>
+	<folder>input</folder>
+	<filename>Screen Shot 2018-12-01 at 2.04.48 AM.png</filename>
+	<path>/Users/saleem/code/fireaiot/brain/input/Screen Shot 2018-12-01 at 2.04.48 AM.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1015</width>
+		<height>677</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>12</ymin>
+			<xmax>967</xmax>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+</annotation>

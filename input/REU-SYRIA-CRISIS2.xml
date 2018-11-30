@@ -1,0 +1,26 @@
+<annotation>
+	<folder>input</folder>
+	<filename>REU-SYRIA-CRISIS2.jpg</filename>
+	<path>/Users/saleem/code/fireaiot/brain/input/REU-SYRIA-CRISIS2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>799</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>435</ymin>
+			<xmax>961</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>
