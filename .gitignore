@@ -5,5 +5,4 @@
 output
 training
 *.record
-model
 inference_graph/
